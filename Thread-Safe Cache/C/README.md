@@ -26,8 +26,6 @@ This homework requires a good understanding of the `pthread` API and some of its
 - `pthread_cond_t` and its `pthread_cond_wait` and `pthread_cond_broadcast` operations.
 - `pthread_mutex_t` and its `pthread_mutex_lock` and `pthread_mutex_unlock` operations.
 
-Specifically, make sure that you understand following topics.
-
 We suggest reading the corresponding `man` pages.
 
 ### Testing
